@@ -4,6 +4,4 @@ basic to advance
 
 
 :star: Python
-
-
 :star: R
