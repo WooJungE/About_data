@@ -3,5 +3,5 @@
 basic to advance
 
 
-:star: Python
-:star: R
+:pencil: Python
+:pencil: R
