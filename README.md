@@ -4,4 +4,3 @@ basic to advance
 
 
 :pencil: Python
-:pencil: R
